@@ -1,2 +1,3 @@
-# lstn-sdk-android
-Lstn SDK for Android
+# 🎙 Lstn
+
+Lstn is a podcast player for your app’s content.
